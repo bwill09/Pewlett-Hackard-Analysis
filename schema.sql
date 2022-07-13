@@ -57,4 +57,5 @@ FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
 	);
 	
 SELECT * FROM departments;
-	
+
+
