@@ -14,6 +14,13 @@ The goal is to analyze the Database for Pewlett Hackard in indept details on how
 
 ##### Mentorship List 
 
+##### Job Openings 
+
+Based on this analysis, there are clearly big number of employee within retirement age in senior position and over 60 % staff wwill retire. 
+See below 
+
+
+
 ##### Summary 
 
 Pewlett Hackard has over 50% of employees ready to retire and been sent to the mentorship program. They will need to hire more in subsequent years. 
