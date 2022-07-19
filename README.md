@@ -12,11 +12,14 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### See the Entity Relationship Diagram used to visualize links among tables. 
 
-![IMG_0421](https://user-images.githubusercontent.com/106555873/179400408-2d970ad7-7d9f-4fe1-b3da-40298427dfb3.png)
+
+
+
+
 
 ##### Mentorship List 
 
-![IMG_0421](https://user-images.githubusercontent.com/106555873/179400389-a0c09ab6-58ce-4da5-8cb9-3f69dcfc1cde.png)
+!![image](https://user-images.githubusercontent.com/106555873/179400580-1d279ea6-d3e2-4bd4-bc46-52e3ee373565.png)
 
 ##### Job Openings 
 
