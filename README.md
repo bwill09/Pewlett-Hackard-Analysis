@@ -21,7 +21,7 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### Job Openings 
 
-![IMG_0421](https://user-images.githubusercontent.com/106555873/179873629-7e33c346-35ee-468e-8d60-2df45cb5f56c.PNG)
+![IMG_0421](https://user-images.githubusercontent.com/106555873/179874411-9c9b670c-d0c3-4e41-add6-292ba5265417.JPG)
 
 Based on this analysis, there are clearly big number of employee within retirement age in senior position and over 60 % staff wwill retire. 
 See below 
