@@ -12,7 +12,7 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### See the Entity Relationship Diagram used to visualize links among tables. 
 
-[IMG_0422](https://user-images.githubusercontent.com/106555873/179873693-2669e703-5d17-46e1-8b16-52b3c66a4372.PNG)
+[IMG_0422](https://user-images.githubusercontent.com/106555873/179873693-2669e703-5d17-46e1-8b16-52b3c66a4372.png)
 
 
 ##### Mentorship List 
@@ -21,7 +21,7 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### Job Openings 
 
-![IMG_0421](https://user-images.githubusercontent.com/106555873/179874411-9c9b670c-d0c3-4e41-add6-292ba5265417.JPG)
+![IMG_0421](https://user-images.githubusercontent.com/106555873/179874411-9c9b670c-d0c3-4e41-add6-292ba5265417.png)
 
 Based on this analysis, there are clearly big number of employee within retirement age in senior position and over 60 % staff wwill retire. 
 See below 
