@@ -12,7 +12,7 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### Mentorship List 
 
-!![image](https://user-images.githubusercontent.com/106555873/179400580-1d279ea6-d3e2-4bd4-bc46-52e3ee373565.png)
+![image](https://user-images.githubusercontent.com/106555873/179400580-1d279ea6-d3e2-4bd4-bc46-52e3ee373565.png)
 
 Based on this analysis, there are clearly big number of employee within retirement age in senior position and over 60 % staff wwill retire. 
 See below 
