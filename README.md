@@ -12,7 +12,7 @@ The goal is to analyze the Database for Pewlett Hackard  in details on how many 
 
 ##### See the Entity Relationship Diagram used to visualize links among tables. 
 
-
+![IMG_0422](https://user-images.githubusercontent.com/106555873/179873693-2669e703-5d17-46e1-8b16-52b3c66a4372.PNG)
 
 
 ##### Mentorship List 
